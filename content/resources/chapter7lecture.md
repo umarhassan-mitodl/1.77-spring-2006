@@ -5,6 +5,8 @@ description: This resource gives information on introduction, oxygen saturation,
 file: /courses/1-77-water-quality-control-spring-2006/f9160ffc103d055d0caee34dc35dfa2b_chapter7lecture.pdf
 file_size: 298788
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
