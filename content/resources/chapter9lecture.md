@@ -5,6 +5,8 @@ description: This resource gives information on introduction, sediment-water par
 file: /courses/1-77-water-quality-control-spring-2006/a12a496f89bce547fcff38bf7f4bc754_chapter9lecture.pdf
 file_size: 1933326
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

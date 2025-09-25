@@ -4,6 +4,8 @@ description: This resource gives information on mass exchange, and momentum tran
 file: /courses/1-77-water-quality-control-spring-2006/0a0e7bd6cbdb51202b2156ab52de76da_chapter8lecture.pdf
 file_size: 1126971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

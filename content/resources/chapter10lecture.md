@@ -5,6 +5,8 @@ description: This resource gives information on finite difference, finite elemen
 file: /courses/1-77-water-quality-control-spring-2006/c604378c43f90a617890b192c7ec47d8_chapter10lecture.pdf
 file_size: 627921
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
